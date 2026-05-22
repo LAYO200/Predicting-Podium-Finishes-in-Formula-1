@@ -123,6 +123,7 @@ The model performs best on **Outside Points** (the largest, most separable class
 ```
 ├── OluwatomilayoFaloseyi_EDA.ipynb   # Full notebook: EDA, modelling, evaluation
 ├── README.md
+├── index.html
 ```
  
 ---
