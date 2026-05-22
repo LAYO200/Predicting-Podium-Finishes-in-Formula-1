@@ -18,6 +18,13 @@ Rather than a simple podium/non-podium binary split (which treats finishing 4th 
 | **Outside Points** | Finished P11 or lower |
  
 This framing was chosen because it is both interpretable and meaningful — each tier carries distinct sporting and strategic implications in real F1.
+
+---
+ ## Live Demo
+
+🔗 [Try the pre-race outcome predictor](https://layo200.github.io/Predicting-Podium-Finishes-in-Formula-1/)
+
+Input a constructor and grid position to get a predicted race outcome category based on the model's learned patterns.
  
 ---
  
